@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "download_url": "https://github.com/KULLANICI_ADIN/PROJE_ADIN/releases/download/v1.1.0/launomi.exe",
-  "changelog": "Icon added and microsoft login added"
+  "changelog": "Icon added and microsoft login added + auto update"
 }
