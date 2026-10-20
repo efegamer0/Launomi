@@ -1,5 +1,22 @@
-{
+[
+  {
+    "version": "3.0",
+    "download_url": "https://github.com/efegamer0/Launomi/releases/download/3.0/Launomi.exe",
+    "changelog": "added changing themes, fixed skin history and icon, cmd is now optional. and also added changelog history"
+  },
+  {
   "version": "2.0",
   "download_url": "https://github.com/efegamer0/Launomi/releases/download/2.0/Launomi.exe",
   "changelog": "better microsoft login, skin history, and some improvments"
-}
+  },
+  {
+    "version": "1.2.5",
+    "download_url": "https://github.com/efegamer0/Launomi/releases/download/1.2.5/Launomi.exe"
+    "changelog": "Changing Acounts and skins"
+  },
+  {
+    "version": "1.1.0",
+    "download_url": "https://github.com/efegamer0/Launomi/releases/download/1.1.0/Launomi.exe",
+    "changelog": "Icon added and microsoft login added"
+  }
+]
