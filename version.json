@@ -1,4 +1,9 @@
 [
+    {
+    "version": "3.1.1",
+    "download_url": "https://github.com/efegamer0/Launomi/releases/download/3.1.0/Launomi.exe",
+    "changelog": "scroll speed and skin history is fixed. also discord rpc is fixed and improved"
+  },
   {
     "version": "3.1.0",
     "download_url": "https://github.com/efegamer0/Launomi/releases/download/3.1.0/Launomi.exe",
@@ -12,7 +17,7 @@
   {
     "version": "2.0.0",
     "download_url": "https://github.com/efegamer0/Launomi/releases/download/2.0/Launomi.exe",
-    "changelog": "better microsoft login, skin history, and some improvments"
+    "changelog": "better microsoft login, added skin history, and some improvments"
   },
   {
     "version": "1.2.5",
