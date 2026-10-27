@@ -1,5 +1,10 @@
 [
     {
+      "version": "3.2.2",
+      "download_url": "https://github.com/efegamer0/Launomi/releases/download/3.2.1/Launomi.exe",
+      "changelog": "auto update fixes"
+    },
+    {
       "version": "3.2.1",
       "download_url": "https://github.com/efegamer0/Launomi/releases/download/3.2.1/Launomi.exe",
       "changelog": "Some fixes"
