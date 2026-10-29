@@ -1,5 +1,10 @@
 [
     {
+      "version": "3.3.1",
+      "download_url": "https://github.com/efegamer0/Launomi/releases/download/3.3.1/Launomi.exe",
+      "changelog": "Dlay text fixxed to play"
+    },
+    {
       "version": "3.3.0",
       "download_url": "https://github.com/efegamer0/Launomi/releases/download/3.3.0/Launomi.exe",
       "changelog": "mod update support and %100 auto update fixxed"
