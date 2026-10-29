@@ -1,7 +1,12 @@
 [
     {
+      "version": "3.3.0",
+      "download_url": "https://github.com/efegamer0/Launomi/releases/download/3.3.0/Launomi.exe",
+      "changelog": "mod update support and %100 auto update fixxed"
+    },
+    {
       "version": "3.2.2",
-      "download_url": "https://github.com/efegamer0/Launomi/releases/download/3.2.1/Launomi.exe",
+      "download_url": "https://github.com/efegamer0/Launomi/releases/download/3.2.2/Launomi.exe",
       "changelog": "auto update fixes"
     },
     {
@@ -14,10 +19,11 @@
       "download_url": "https://github.com/efegamer0/Launomi/releases/download/3.2.0/Launomi.exe",
       "changelog": "Language Change and mac support"
     },
+
     {
     "version": "3.1.1",
     "download_url": "https://github.com/efegamer0/Launomi/releases/download/3.1.0/Launomi.exe",
-    "changelog": "scroll speed and skin history is fixed. also discord rpc is fixed and improved"
+    "changelog": "scroll speed and skin history is fixed"
   },
   {
     "version": "3.1.0",
