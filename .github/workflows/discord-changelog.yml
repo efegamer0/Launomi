@@ -22,7 +22,7 @@ jobs:
                -X POST \
                -d '{
                  "username": "Launomi Launcher",
-                 "avatar_url": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+                 "avatar_url": "https://github.com/efegamer0/Launomi/blob/main/.github/workflows/launomico512.png",
                  "embeds": [
                    {
                      "title": "'"$RELEASE_TITLE"'",
