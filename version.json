@@ -1,5 +1,10 @@
 [
     {
+      "version": "3.4.1",
+      "download_url": "https://github.com/efegamer0/Launomi/releases/download/3.4.0/Launomi.exe",
+      "changelog": "ui fix"
+    },
+    {
       "version": "3.4.0",
       "download_url": "https://github.com/efegamer0/Launomi/releases/download/3.4.0/Launomi.exe",
       "changelog": "blurred bg, better ui, you can see which version you playing and LOADING SCREEN AT START"
