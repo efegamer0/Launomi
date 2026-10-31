@@ -1,0 +1,35 @@
+name: Send Changelog to Discord
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  discord-changelog:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send Discord Embed Message
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK }}
+          RELEASE_TITLE: ${{ github.event.release.name || github.event.release.tag_name }}
+          RELEASE_BODY: ${{ github.event.release.body }}
+          RELEASE_URL: ${{ github.event.release.html_url }}
+        run: |
+          # Metin içindeki özel karakterleri JSON formatına uygun hale getirme
+          JSON_BODY=$(jq -n --arg body "$RELEASE_BODY" '$body')
+          
+          curl -H "Content-Type: application/json" \
+               -X POST \
+               -d '{
+                 "username": "Launomi Launcher",
+                 "avatar_url": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+                 "embeds": [
+                   {
+                     "title": "'"$RELEASE_TITLE"'",
+                     "url": "'"$RELEASE_URL"'",
+                     "description": '"$JSON_BODY"',
+                     "color": 5814783
+                   }
+                 ]
+               }' \
+               $DISCORD_WEBHOOK_URL
