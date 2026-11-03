@@ -1,5 +1,10 @@
 [
     {
+      "version": "3.5.1",
+      "download_url": "https://github.com/efegamer0/Launomi/releases/download/3.5.0/Launomi.exe",
+      "changelog": "version fix"
+    },
+    {
       "version": "3.5.0",
       "download_url": "https://github.com/efegamer0/Launomi/releases/download/3.5.0/Launomi.exe",
       "changelog": "Better ui for skin change tab and new theme"
