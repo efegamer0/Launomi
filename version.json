@@ -1,5 +1,20 @@
 [
     {
+      "version": "3.5.2",
+      "download_url": "https://github.com/efegamer0/Launomi/releases/download/3.5.1/Launomi.exe",
+      "changelog": "nvm. i just forget to put the game lol. so  auto update fixed"
+    },
+    {
+      "version": "3.5.1",
+      "download_url": "https://github.com/efegamer0/Launomi/releases/download/3.5.1/Launomi.exe",
+      "changelog": "version fix"
+    },
+    {
+      "version": "3.5.0",
+      "download_url": "https://github.com/efegamer0/Launomi/releases/download/3.5.0/Launomi.exe",
+      "changelog": "Better ui for skin change tab and new theme"
+    },
+    {
       "version": "3.4.2",
       "download_url": "https://github.com/efegamer0/Launomi/releases/download/3.4.2/Launomi.exe",
       "changelog": "improved loading screen, theme fix, version error fix "
