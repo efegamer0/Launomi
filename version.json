@@ -1,4 +1,9 @@
 [
+  {
+      "version": "3.8.0",
+      "download_url": "https://github.com/efegamer0/Launomi/releases/download/3.8.0/Launomi.exe",
+      "changelog": "mod dragging, mod page fixed also you... can.... put... icons to versions."
+    },
     {
       "version": "3.7.0",
       "download_url": "https://github.com/efegamer0/Launomi/releases/download/3.7.0/Launomi.exe",
