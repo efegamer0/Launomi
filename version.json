@@ -1,5 +1,10 @@
 [
     {
+      "version": "3.10.1",
+      "download_url": "https://github.com/efegamer0/Launomi/releases/download/3.10.1/Launomi.exe",
+      "changelog": "Translation fix. and better mod/resource search."
+    },
+    {
       "version": "3.10.0",
       "download_url": "https://github.com/efegamer0/Launomi/releases/download/3.10.0/Launomi.exe",
       "changelog": "you can open launcher from search bar."
